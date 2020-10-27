@@ -55,7 +55,7 @@ h3 {
 
 .back {
   transform: rotateY(180deg);
-  background-color: #6589F9;
+  background-color: #f9f9f9;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -66,5 +66,5 @@ h3 {
 }
 
 .match .front {
-  background: #6589F9 !important;
+  background: #28313b !important;
 }
